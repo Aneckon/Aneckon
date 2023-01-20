@@ -11,6 +11,7 @@
 ### Status
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Anecko=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<img src="[https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?Anecko=anuraghazra&langs_count=8)" />
 
 ### Follow Me:
 
