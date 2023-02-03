@@ -10,7 +10,7 @@
 
 ### Status
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000&title_color=fff&icon_color=ff7a45&text_color=8c8c8c)
 
