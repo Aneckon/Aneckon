@@ -7,6 +7,7 @@
 <code>![Redux](https://img.shields.io/badge/-REDUX-090909?style=for-the-badge&logo=Redux&logoColor=7c1996)</code>
 <code>![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor)</code>
 <code>![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor)</code>
+<code>![Strapi](https://img.shields.io/badge/-Strapi-090909?style=for-the-badge&logo=Strapi&logoColor)</code>
 
 ### Status
 
