@@ -5,7 +5,7 @@
 <code>![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)</code>
 <code>![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor)</code>
 <code>![React](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=React&logoColor=blue)</code>
-<code>![ReduxToolkit](https://img.shields.io/badge/-ReduxToolkit-090909?style=for-the-badge&logo=ReduxToolkit&logoColor=7c1996)</code>
+<code>![ReduxToolkit](https://img.shields.io/badge/-Redux Toolkit-090909?style=for-the-badge&logo=Redux&logoColor=7c1996)</code>
 <code>![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor)</code>
 <code>![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor)</code>
 <code>![Strapi](https://img.shields.io/badge/-Strapi-090909?style=for-the-badge&logo=Strapi&logoColor)</code>
