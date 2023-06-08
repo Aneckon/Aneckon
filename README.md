@@ -12,7 +12,7 @@
 
 ### Status
 
-<code>![](https://github-readme-streak-stats.herokuapp.com/?user=Aneckon&theme=dark&hide_border=false&bg_color=00000000&title_color=fff&icon_color=fff&text_color=595959)</code>
+<code>![](https://github-readme-streak-stats.herokuapp.com/?user=Aneckon&hide_border=false&bg_color=00000000&title_color=fff&icon_color=fff&text_color=595959)</code>
 
 <code>![GitHub](https://github-readme-stats.vercel.app/api?username=Aneckon&show_icons=true&bg_color=00000000&title_color=fff&icon_color=fff&text_color=595959)</code>
 
