@@ -14,7 +14,7 @@
 
 <code>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneckon&langs_count=6&show_icons=true&bg_color=00000000&title_color=fff&layout=donut-vertical&text_color=fff)</code>
 
-<code>![GitHub](https://github-readme-stats.vercel.app/api?username=Aneckon&show_icons=true&bg_color=00000000&title_color=fff&icon_color=fff&text_color=595959&hide_border=false)</code>
+<code>![GitHub](https://github-readme-stats.vercel.app/api?username=Aneckon&show_icons=true&bg_color=00000000&title_color=fff&icon_color=fff&text_color=595959)</code>
 
 ### Follow Me:
 
