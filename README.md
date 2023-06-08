@@ -6,7 +6,7 @@
 <code>![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=595959)</code>
 <code>![React](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=React&logoColor=595959)</code>
 <code>![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux&logoColor=595959)</code>
-<code>![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor)</code>
+<code>![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=595959)</code>
 <code>![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=595959)</code>
 <code>![Strapi](https://img.shields.io/badge/-Strapi-090909?style=for-the-badge&logo=Strapi&logoColor=595959)</code>
 
