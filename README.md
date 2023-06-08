@@ -12,7 +12,7 @@
 
 ### Status
 
-<code>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&show_icons=true&bg_color=00000000&title_color=fff&icon_color=ff7a45&text_color=8c8c8c)</code>
+<code>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&show_icons=true&bg_color=00000000&title_color=fff&icon_color=fff&text_color=8c8c8c)</code>
 
 <code>![GitHub](https://github-readme-stats.vercel.app/api?username=Aneckon&show_icons=true&bg_color=00000000&title_color=fff&icon_color=fff&text_color=595959)</code>
 
