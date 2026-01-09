@@ -11,12 +11,6 @@
 <code>![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=595959)</code>
 <code>![Strapi](https://img.shields.io/badge/-Strapi-090909?style=for-the-badge&logo=Strapi&logoColor=595959)</code>
 
-### Status
-
-<code>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aneckon&theme=dark&hide_border=true&background=45%2C00000000%2C00000000&ring=595959&fire=fff&currStreakLabel=fff)](https://git.io/streak-stats)</code>
-
-<code>![GitHub](https://github-readme-stats.vercel.app/api?username=Aneckon&show_icons=true&bg_color=00000000&title_color=fff&hide_border=true&icon_color=fff&text_color=595959)</code>
-
 ### Follow Me:
 
 <code>[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=595959)](https://t.me/Bonetik)</code>
